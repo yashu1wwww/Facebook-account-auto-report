@@ -1,7 +1,7 @@
 # Facebook-account-auto-report
 Facebook account auto report bot with selenium with python
 
-replace 19 & 21th line with email/ph no & pass and in 25 line which person you want to report put her profile copy url...
+replace 18 & 20th line with email/ph no & pass and in 24th line which person you want to report put her profile copy url...
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter f.py or double click on f.py or you can rename the file and run
 
