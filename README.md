@@ -9,6 +9,12 @@ To begin, please download the latest version of Chrome Driver from https://chrom
 
 Then, open the command prompt in that folder and enter "f.py" or double-click on the "f.py" file to run it. Alternatively, you can rename the file and run it.
 
+# when facebook updated the some code changes if these not run means use below repos..
+
+https://github.com/ShadowHackrs/FB-auto-report
+
+https://github.com/orangmuda/faceports
+
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
