@@ -1,10 +1,13 @@
 # Facebook-account-auto-report
 Facebook account auto report bot with selenium with python
 
-Please replace the 18th and 20th lines with your email/phone number and password. Additionally, in the 24th line, please provide the profile copy URL of the person you want to report.
+# Please replace the 18th and 20th lines with your email/phone number and password. Additionally, 
 
-To begin, please download the latest version of Chrome Driver from https://chromedriver.chromium.org/. Next, extract the file and place it in the designated folder. Then, open the command prompt in that folder and enter "f.py" or double-click on the "f.py" file to run it. Alternatively, you can rename the file and run it.
+# in the 24th line, please provide the profile copy URL of the person you want to report.
 
+To begin, please download the latest version of Chrome Driver from https://chromedriver.chromium.org/. Next, extract the file and place it in the designated folder. 
+
+Then, open the command prompt in that folder and enter "f.py" or double-click on the "f.py" file to run it. Alternatively, you can rename the file and run it.
 
 👉Note:-
 
